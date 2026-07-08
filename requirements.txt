@@ -7,7 +7,7 @@ umongo
 requests
 shortzy
 pytz
-aiohttp
+aiohttp==3.12.14
 telegraph
 pymediainfo-pyrofork
 
