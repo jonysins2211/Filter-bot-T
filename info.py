@@ -37,9 +37,9 @@ OWNER = int(os.environ.get("OWNER", "949657126"))
 CHANNEL_LINK = environ.get('CHANNEL_LINK', 'https://telegram.me/Movie_loverzz')
 GROUP_LINK = environ.get('GROUP_LINK', 'https://telegram.me/ML_Files')
 
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://daredevill:2OojQnLHgNrmo4qY@cluster0.vdxatjk.mongodb.net/?appName=Cluster0")
-DATABASE_NAME = environ.get('DATABASE_NAME', "jack")
-COLLECTION_NAME = environ.get('COLLECTION_NAME', 'bulwark')
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://primesp:muHQKlfTLinNxplo@cluster0.nquv593.mongodb.net/?appName=Cluster0")
+DATABASE_NAME = environ.get('DATABASE_NAME', "primesp")
+COLLECTION_NAME = environ.get('COLLECTION_NAME', 'tg_filess')
 MULTIPLE_DB = is_enabled(os.environ.get('MULTIPLE_DB', "False"), False)
 DATABASE_URI2 = environ.get('DATABASE_URI2', "")
 
